@@ -65,3 +65,8 @@ To bolster topic modeling:
 - Scrutinize data quality for noise reduction.
 - Emphasize effective interpretation of existing topics.
 - Explore alternate topic modeling algorithms like Non-Negative Matrix Factorization (NMF).
+
+This README file serves as comprehensive documentation, including instructions, methodology, and findings. For more detailed information, refer to the code in the Jupyter notebook file (`data_extraction_starter.ipynb`) in this repository.
+
+Please feel free to reach out to me if you have any questions or need further clarification.
+
