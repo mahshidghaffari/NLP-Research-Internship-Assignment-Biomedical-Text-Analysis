@@ -14,7 +14,7 @@ To extract relevant abstracts, the MEDLINE API was utilized to search for articl
 
 In the context of advanced NLP analysis, various methods are available for extracting insights from text data. While the following two methods were implemented for this assignment, it's important to acknowledge that alternative approaches exist:
 
-### General Keyword Extraction
+1. ### General Keyword Extraction
 
 Advanced NLP techniques were applied to extract keywords from the introduction sections of the abstracts. This involved the following steps:
 
@@ -23,7 +23,7 @@ Advanced NLP techniques were applied to extract keywords from the introduction s
 - TF-IDF Vectorization: Representation of words' importance using TF-IDF.
 - Keyword Selection: Selection of the top 5 TF-IDF keywords for each abstract.
 
-### Topic Modeling and Keyword Extraction
+2. ### Topic Modeling and Keyword Extraction
 
 Latent Dirichlet Allocation (LDA) was used for topic modeling on the introduction sections of the abstracts. This involved the following steps:
 
